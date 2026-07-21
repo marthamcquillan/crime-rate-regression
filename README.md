@@ -155,19 +155,16 @@ The project also examines the effects of multicollinearity, dimensionality reduc
 
 ## My Contributions
 
-This repository represents a collaborative course project completed as part of NYU's *Introduction to Machine Learning* course.
+This repository represents a collaborative project completed with Tyler Huynh as part of NYU's Introduction to Machine Learning course.
 
-My contributions included:
+My primary contributions included:
 
-- Developing and evaluating regression models
-- Implementing preprocessing and feature engineering pipelines
-- Performing hyperparameter tuning and model evaluation
-- Conducting exploratory data analysis
-- Interpreting model performance and experimental results
-- Contributing to the written report and project documentation
-
----
-
+- Implementing and evaluating Ridge Regression and K-Nearest Neighbors regression models
+- Comparing multiple feature engineering techniques, including PCA, polynomial feature expansion, and K-Means distance features
+- Performing hyperparameter tuning and evaluating models using validation MSE and R²
+- Conducting exploratory data analysis and interpreting model performance
+- Contributing to the experimental analysis, visualizations, and final technical report
+  
 ## Team
 
 - Martha McQuillan
