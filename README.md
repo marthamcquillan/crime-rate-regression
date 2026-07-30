@@ -139,23 +139,9 @@ The project also examines the effects of multicollinearity, dimensionality reduc
 
 ---
 
-## Repository Structure
-
-```
-.
-├── data/
-├── notebooks/
-├── figures/
-├── models/
-├── README.md
-└── requirements.txt
-```
-
----
-
 ## My Contributions
 
-This repository represents a collaborative project completed with Tyler Huynh as part of NYU's Introduction to Machine Learning course.
+This repository represents a collaborative project completed with Tyler Huynh.
 
 My primary contributions included:
 
@@ -165,19 +151,3 @@ My primary contributions included:
 - Conducting exploratory data analysis and interpreting model performance
 - Contributing to the experimental analysis, visualizations, and final technical report
   
-## Team
-
-- Martha McQuillan
-- Tyler Huynh
-
----
-
-## Future Work
-
-Potential improvements include:
-
-- Gradient Boosting (XGBoost / LightGBM)
-- Random Forest Regression
-- Ensemble learning
-- Bayesian hyperparameter optimization
-- SHAP feature importance analysis
