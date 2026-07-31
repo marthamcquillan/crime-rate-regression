@@ -12,8 +12,7 @@ The project investigates how dimensionality reduction, nonlinear feature transfo
 
 ## Dataset
 
-**Source:** UCI Communities and Crime Dataset
-
+**Source:** [UCI Communities and Crime Dataset](https://archive.ics.uci.edu/dataset/183/communities+and+crime)
 - ~2,200 U.S. communities
 - ~120 socioeconomic, demographic, and law enforcement features
 - Target variable: **ViolentCrimesPerPop**
